@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Soham More 👋
 
-<!--
-**SohamMore05/SohamMore05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Software Developer with 2+ years of experience in ASP.NET, C#, SQL Server, and enterprise web application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently transitioning into Data Science, Machine Learning, AI Engineering, and Data Analytics.
+
+---
+
+## Skills
+
+### Programming Languages
+- Python
+- SQL
+- C#
+- JavaScript
+
+### Data Science & AI
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- Scikit-learn
+- Pandas
+- NumPy
+- Data Visualization
+- Generative AI
+
+### Web Development
+- ASP.NET WebForms
+- ADO.NET
+- HTML
+- CSS
+- JavaScript
+- SQL Server
+
+---
+
+## Projects
+
+### AI Chat Application
+Built an AI-powered chatbot using local language models through Ollama and Streamlit.
+
+### Deep Learning Image Classification
+Developed a CNN model achieving 97.89% validation accuracy.
+
+### Gaming Analytics Platform
+Created a gaming analytics web application for user performance tracking and insights.
+
+### COVID-19 Analytics Dashboard
+Developed a web-based dashboard for tracking and visualizing COVID-19 data.
+
+---
+
+## Currently Learning
+
+- LangChain
+- RAG Systems
+- Vector Databases
+- AI Agents
+- Data Engineering
+
+---
+
+## Connect With Me
+
+- LinkedIn: Add your LinkedIn URL
+- GitHub: https://github.com/SohamMore05
