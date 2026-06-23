@@ -64,5 +64,5 @@ Developed a web-based dashboard for tracking and visualizing COVID-19 data.
 
 ## Connect With Me
 
-- LinkedIn: Add your LinkedIn URL
-- GitHub: https://github.com/SohamMore05
+- LinkedIn:https://www.linkedin.com/in/soham-more-758b72265
+- - GitHub: https://github.com/SohamMore05
